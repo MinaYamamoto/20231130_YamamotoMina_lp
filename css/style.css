@@ -449,6 +449,7 @@ table th {
     background-color: #DCDCDC;
     color: #808080;
     padding-right: 150px;
+    white-space: nowrap;
 }
 
 .info{
