@@ -439,6 +439,7 @@ table td {
     padding: 20px;
     color: #808080;
     padding-right: 500px;
+    white-space: nowrap;
 }
 
 table th {
