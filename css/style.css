@@ -86,7 +86,8 @@
 }
 
 .news{
-    padding-bottom: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .inner{
@@ -154,9 +155,11 @@
 }
 
 .about{
+    background-color: #f4f5f6;
+    padding-top:50px;
     border-bottom: 50px;
     text-align: center;
-    padding-bottom: 150px;
+    padding-bottom: 50px;
 }
 
 .about__title--top {
@@ -195,7 +198,8 @@
 }
 
 .service{
-    padding-bottom: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .service__title--top{
@@ -318,7 +322,9 @@ li{
 }
 
 .blog{
-    padding-bottom: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f4f5f6;
 }
 
 .blog__title--top{
@@ -340,12 +346,15 @@ li{
 .blog__item{
     display: flex;
     justify-content: center;
+    padding-bottom: 30px;
 }
 
 .blog__card{
     position: relative;
-    width: 27%;
+    width: 30%;
     margin-right: 30px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: #fff;
 }
 
 .blog__img img{
@@ -380,12 +389,12 @@ li{
 
 .blog__tag{
     display: flex;
-    padding: 40px 10px;
+    padding: 40px 10px 10px 10px;
     justify-content: space-between;
     color:#808080;
 }
 
-    .blog__list-button{
+.blog__list-button{
     display: block;
     height: 60px;
     width: 200px;
@@ -402,7 +411,8 @@ li{
 }
 
 .coinf{
-    margin-bottom: 150px;
+    margin-top: 50px;
+    margin-bottom: 100px;
 }
 
 .coinf__title--top{
